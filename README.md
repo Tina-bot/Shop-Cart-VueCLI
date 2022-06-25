@@ -7,8 +7,8 @@
 ## Description  🕶
 
 >> This project is a rework of my [shop-cart](https://github.com/Tina-bot/Shop-Cart) and [shop-cart-vue](https://github.com/Tina-bot/Shop-Cart-Vue) </p>
->> but ussing __Vue__ and __Vuex__ </p>
->> this is the project i am working on to learn __vue__ </p>
+>> but ussing __Vue__ and __Vuex__ . </p>
+>> This is the project i am working on to learn __vue__ </p>
 >> so that's why it's very incomplete </p>
 
 ✨ https://shop-vuecli.netlify.app/ ✨
